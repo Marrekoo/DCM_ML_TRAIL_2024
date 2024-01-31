@@ -26,9 +26,8 @@ This course will contain a mix of theory, implementation guidelines, and hands-o
 ### Day 4 (XXXXX) – Machine learning approaches for discrete choice analysis (Part 2) (Van Cranenburgh)
 **Time**: 10.00 – 16.00 h<br>
 **Room**: D2 (ground floor), TPM, Jaffalaan 5
-- Explainable AI techniques
-- Hybrid models and SHAP values
-- Data requirements for training ANNs
+- Utility-based machine learning models (a.k.a. hybrid models)
+- The L-MNL model
 - Lab session 2 (Python notebook)
 
 ## Instructions to set up your workspace
