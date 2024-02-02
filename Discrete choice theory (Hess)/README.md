@@ -1,3 +1,27 @@
+# Discrete Choice Analysis: micro-econometrics and machine learning approaches
+
+- **Lecturer:** Dr. Stephane Hess
+- **Teacher assistants:** Gabriel Nova
+
+## Schedule
+
+### Day 1 – Basics of Discrete choice theory (Hess)
+**Time**: 10.00 – 16.00 h<br>
+**Room**: D2 (ground floor), TPM, Jaffalaan 5
+- Introduction to choice modelling and data requirements
+- Random utility and the logit model
+- Model specification, estimation and interpretation of results
+- Exercise 1 (Apollo)
+
+
+### Day 2 – Advances in Discrete choice theory (Hess)
+**Time**: 10.00 – 16.00 h<br>
+**Room**: D2 (ground floor), TPM, Jaffalaan 5
+- Allowing for heterogeneity in preferences
+- Random heterogeneity and the mixed logit model
+- Making predictions from choice models
+- Exercises 2 and 3 (Apollo)
+
 # Installing and Testing Apollo
 
 ## Install R
